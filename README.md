@@ -1,13 +1,13 @@
 # AI_APITestFramework
 AI powered framework for API testing
 
-- Files with prefix "fw_" contains template for code generation
+- Files with prefix "fw_" contains template for code generation. It can be used as a **"standalone API testing framework"** as well.
 - test_posts.py contains code for connecting to local AI model and generate the tests
   
 
 ## Overview
 
-This script leverages Ollama's local AI server to automatically generate Python code for API testing. It takes an example request/response file and uses the Qwen2.5-Coder model to create reusable test code that verifies API responses and status codes.
+This script leverages Ollama's local AI server to automatically generate Python code for API testing. It takes an example request/response file and uses an AI model to create reusable test code that verifies API responses and status codes.
 
 ## Requirements
 
