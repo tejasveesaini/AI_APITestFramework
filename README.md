@@ -1,5 +1,5 @@
 # AI_APITestFramework
-Artificial Intelligence powered framework for API testing (Minimum Viable Product)
+Artificial Intelligence powered framework for API testing (Minimum Viable Product). It creates test automation scripts for API testing.
 
 - Files with prefix "fw_" contains template for code generation. It can be used as a **"standalone API testing framework"** as well.
 - mainScript.py contains code for connecting to local AI model and generate the tests
