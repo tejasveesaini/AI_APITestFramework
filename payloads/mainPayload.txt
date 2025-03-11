@@ -1,0 +1,17 @@
+URL: https://jsonplaceholder.typicode.com/posts
+Method: POST
+
+Request:
+{
+   title: 'Post Title',
+   body: 'This post has following body.',
+   userId: 1,
+}
+
+Response:
+{
+  id: 101,
+  title: 'Post Title',
+  body: 'This post has following body.',
+  userId: 1
+}
