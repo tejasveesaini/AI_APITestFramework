@@ -1,12 +1,13 @@
 # AI_APITestFramework
-Artificial Intelligence powered framework for API testing
+Artificial Intelligence powered framework for API testing (Minimum Viable Product)
 
 - Files with prefix "fw_" contains template for code generation. It can be used as a **"standalone API testing framework"** as well.
 - test_posts.py contains code for connecting to local AI model and generate the tests
 
 ## Improvement Items
-- Segregate payloads into json files
-- Add post steps to create file with the generated code
+- Segregate payloads into json files and pojo
+- Add code to create file with the generated code
+- Use bigger model for better responses. For example - detect the dynamic fields
 
 ## Overview
 
