@@ -1,24 +1,24 @@
 # AI_APITestFramework
 AI LLM powered framework for API testing. This is currently in "Minimum Viable Product" state. It creates test automation scripts for API testing.
 
-- Files with prefix "fw_" contains template for code generation. It can be used as a **"standalone API testing framework"** as well.
+## Overview
+
+This project leverages Ollama's local AI server to automatically generate Python code for API testing. It takes an example request/response file and uses an AI model to create reusable test code that verifies API responses and status codes.
+
+- Files under "baseFw" contains template for code generation. It can be used as a **"standalone API testing framework"** as well.
 - mainScript.py contains code for connecting to local AI model and generate the tests
 
 ## Screenshots
 - Generated code from AI model
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/3195a46b-c0ec-4c12-b209-74f88afc33a8" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/3195a46b-c0ec-4c12-b209-74f88afc33a8" />
 
 - Prompts and Script
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/5230c67d-4442-49d8-a667-0e61eaa8d318" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/5230c67d-4442-49d8-a667-0e61eaa8d318" />
 
 ## Improvement Items
 - Segregate payloads into json files and pojo
 - Add code to create file with the generated code
 - Use bigger model for better responses. For example - detect the dynamic fields
-
-## Overview
-
-This project leverages Ollama's local AI server to automatically generate Python code for API testing. It takes an example request/response file and uses an AI model to create reusable test code that verifies API responses and status codes.
 
 ## Requirements
 
