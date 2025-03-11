@@ -4,7 +4,8 @@ Artificial Intelligence powered framework for API testing (Minimum Viable Produc
 - Files with prefix "fw_" contains template for code generation. It can be used as a **"standalone API testing framework"** as well.
 - mainScript.py contains code for connecting to local AI model and generate the tests
 
-<img width="927" alt="image" src="https://github.com/user-attachments/assets/3195a46b-c0ec-4c12-b209-74f88afc33a8" />
+## Screenshots
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/3195a46b-c0ec-4c12-b209-74f88afc33a8" />
 
 ## Improvement Items
 - Segregate payloads into json files and pojo
