@@ -5,6 +5,7 @@ Artificial Intelligence powered framework for API testing (Minimum Viable Produc
 - mainScript.py contains code for connecting to local AI model and generate the tests
 
 ## Screenshots
+- Generated code from AI model
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/3195a46b-c0ec-4c12-b209-74f88afc33a8" />
 
 ## Improvement Items
